@@ -1,2 +1,2 @@
-# sistem_absensi
-sistem informasi absensi di madrasah ibtidaiiyah putri
+# SISTEM INFORMASI DATA SANTRI DISROSA
+sistem informasi data santri dirosa
