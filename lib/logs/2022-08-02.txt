@@ -1,0 +1,19 @@
+Time : 16:34:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Lembaga_Sore' in 'where clause'
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE Lembaga_Sore = 'Mahasiswa' AND aktif = 'ya'
+
+Time : 16:34:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Lembaga_Sore' in 'where clause'
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE Lembaga_Sore = 'Mahasiswa' AND aktif = 'ya'
+
+Time : 16:34:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Lembaga_Sore' in 'where clause'
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE Lembaga_Sore = 'Mahasiswa' AND aktif = 'ya'
+
+Time : 16:34:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Lembaga_Sore' in 'where clause'
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE Lembaga_Sore = 'Mahasiswa' AND aktif = 'ya'
+
+Time : 16:34:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Lembaga_Sore' in 'where clause'
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE Lembaga_Sore = 'Mahasiswa' AND aktif = 'ya'
